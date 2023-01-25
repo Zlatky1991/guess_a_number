@@ -1,7 +1,7 @@
 # The "Guess-A-Number" GAME
 Guess a number is a simple game where the computer choose a number between 1 and 100 and the user has to guess it. Depend of the number the user is guessing the computer will let him know if his number is low, high or correct. If the user type text or add a number higher than 100 or lower than 1 the computer sends an error message. Try it out and have fun!
 
-https://replit.com/@Zlatky1991/GuessANumber#main.py
+
 
 
 ![image](https://user-images.githubusercontent.com/123004995/214475387-4c5c7f29-858f-4b9a-a033-3e7d563349a0.png)
